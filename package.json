@@ -11,6 +11,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start" : "no de index.js"
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
   }
 }
