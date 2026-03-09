@@ -1,0 +1,16 @@
+{
+  "name": "mihirbackend",
+  "version": "1.0.0",
+  "description": "abasic app to deploy",
+  "keywords": [
+    "mihir",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "mihir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "no de index.js"
+  }
+}
